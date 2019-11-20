@@ -1,5 +1,5 @@
 //DOM elements
-const resultEl = document.getElementById('result');
+const resultEl = document.getElementById('output');
 const lengthEl = document.getElementById('length');
 const upperEl = document.getElementById('upper');
 const lowerEl = document.getElementById('lower');
